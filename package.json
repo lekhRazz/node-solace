@@ -1,0 +1,24 @@
+{
+  "name": "node-solace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lekhRazz/node-solace.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lekhRazz/node-solace/issues"
+  },
+  "homepage": "https://github.com/lekhRazz/node-solace#readme",
+  "dependencies": {
+    "amqp10": "^3.6.0",
+    "dotenv": "^16.0.1"
+  }
+}
